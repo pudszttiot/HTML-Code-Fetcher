@@ -2,9 +2,9 @@
   <img width="660" height="500" src="https://i.ibb.co/Ny6nMMS/htmlcodefetcher.png">
 </p>
 
-# HTML-Code-Fetcher
+# HTML Code Fetcher
 
-HTML code viewer and editor application allowing users to visualize and edit HTML content seamlessly. Users can load, save, and modify HTML files easily, enhancing their workflow for web development.
+HTML Code Fetcher application allowing users to visualize and edit HTML content seamlessly. Users can load, save, and modify HTML files easily, enhancing their workflow for web development.
 
 ![Screenshot](screenshot.png)
 
@@ -30,7 +30,7 @@ List and describe the key features of your project.
 
 ## Contributing
 
-Contributions and feedback are welcome! Feel free to submit issues, feature requests, or pull requests to enhance Py2EXE Converter..
+Contributions and feedback are welcome! Feel free to submit issues, feature requests, or pull requests to enhance HTML Code Fetcher.
 
 ## License
 
