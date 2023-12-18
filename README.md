@@ -26,7 +26,15 @@ Provide examples and guidelines on how to use your project.
 
 ## Features
 
-List and describe the key features of your project.
+- User Interface Components:
+  - URL input field.
+  - "Fetch Content," "Save Content," and "Clear Content" buttons.
+  - Area for displaying fetched HTML content.
+  - Progress bar for visualizing the fetching progress.
+
+- Menu Bar:
+  - "File" menu with an "Exit" action to close the application.
+  - "Help" menu with a "How to Use" action displaying usage instructions.
 
 ## Contributing
 
